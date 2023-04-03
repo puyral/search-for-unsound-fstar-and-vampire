@@ -1,0 +1,416 @@
+% (485693)Running in auto input_syntax mode. Trying SMTLIB2
+% Warning: check-sat is not the last entry. Skipping the rest!
+% (485695)ott+10_3:2_aac=none:add=large:afp=10000:afq=2.0:amm=off:fsr=off:fde=none:gs=on:gsaa=from_current:gsem=off:lcm=reverse:lma=on:nm=0:nwc=4:sas=z3:updr=off_22 on query for (22ds/0Mi)
+% (485698)lrs+1_3_awrs=decay:awrsf=4:afp=10000:afq=1.0:amm=off:anc=none:bd=off:cond=on:fsr=off:fde=unused:gs=on:lwlo=on:nm=16:nwc=1:sas=z3:stl=30:ss=axioms:s2a=on:st=1.2:sos=theory:sp=frequency_29 on query for (29ds/0Mi)
+% (485699)lrs-11_1_av=off:cond=on:gs=on:lcm=reverse:lma=on:lwlo=on:nm=16:nwc=5:stl=30:sp=reverse_arity:tha=off:thi=strong:uwa=interpreted_only_58 on query for (58ds/0Mi)
+% (485696)ott+1_3:1_av=off:bd=off:fsr=off:fde=none:gs=on:inw=on:nm=2:nwc=1.5:sp=frequency:uwa=one_side_interpreted_22 on query for (22ds/0Mi)
+% (485697)dis+1011_5_aac=none:add=large:afp=40000:afq=1.2:amm=off:anc=none:bd=off:fsr=off:gsp=on:inw=on:irw=on:lma=on:nm=64:nwc=1:sas=z3:sos=on:sp=occurrence:tha=off:updr=off_26 on query for (26ds/0Mi)
+% (485701)lrs+1_5:4_aac=none:add=off:afr=on:afp=4000:afq=1.2:amm=sco:anc=none:gsp=on:gs=on:irw=on:nm=64:newcnf=on:nwc=1.3:nicw=on:sas=z3:stl=30:sp=occurrence:tha=off_3 on query for (3ds/0Mi)
+% (485700)dis-3_4_add=off:afp=40000:afq=1.1:amm=off:anc=none:bs=unit_only:cond=fast:fsr=off:gs=on:inw=on:lma=on:nm=64:nwc=1.5:nicw=on:sas=z3:sp=reverse_arity:tha=off:thf=on:uhcvi=on_13 on query for (13ds/0Mi)
+WARNING Broken Constraint: if lrs_weight_limit_only(on) has been set then saturation_algorithm(discount) is equal to lrs
+% (485705)dis+11_6_add=large:afr=on:afp=100000:afq=1.2:amm=off:anc=none:cond=fast:gs=on:gsaa=from_current:gsem=off:irw=on:lma=on:lwlo=on:nm=64:nwc=1:sas=z3:sos=on:sp=occurrence:tha=off:thi=strong:updr=off_2 on query for (2ds/0Mi)
+% (485702)dis+1002_8:1_awrs=converge:awrsf=256:anc=all_dependent:br=off:fsr=off:fde=none:gs=on:gsaa=from_current:gsem=on:irw=on:nm=64:nwc=1:sas=z3:s2a=on:sp=frequency:thf=on:uwa=interpreted_only:urr=on_7 on query for (7ds/0Mi)
+WARNING Broken Constraint: if lrs_weight_limit_only(on) has been set then saturation_algorithm(discount) is equal to lrs
+% (485703)dis+1_3_add=large:afp=4000:afq=1.0:anc=none:gs=on:gsem=off:inw=on:lcm=reverse:lwlo=on:nm=64:nwc=1:sas=z3:sos=all:sac=on:thi=all:uwa=all:updr=off:uhcvi=on_12 on query for (12ds/0Mi)
+WARNING Broken Constraint: if lrs_weight_limit_only(on) has been set then saturation_algorithm(discount) is equal to lrs
+% (485706)dis+10_3:2_afr=on:afp=1000:afq=1.2:bd=off:irw=on:lcm=predicate:lwlo=on:nm=0:newcnf=on:nwc=2:sos=on:tha=off:thf=on:urr=ec_only_11 on query for (11ds/0Mi)
+% (485708)dis-10_4:1_aac=none:add=off:afp=1000:afq=1.4:amm=off:anc=none:cond=fast:ep=RSTC:gs=on:gsaa=from_current:gsem=on:inw=on:lma=on:nm=64:nwc=4:sas=z3:tha=off:thi=strong:uwa=interpreted_only:updr=off:uhcvi=on_6 on query for (6ds/0Mi)
+% (485704)lrs+3_128_awrs=converge:awrsf=2:av=off:bs=on:cond=fast:fsr=off:fde=unused:gsp=on:irw=on:lma=on:nm=64:nwc=1.5:stl=30:sp=frequency:tha=some:updr=off_148 on query for (148ds/0Mi)
+% (485709)lrs+1_2:3_afr=on:afp=1000:afq=1.1:amm=sco:anc=none:fsr=off:fde=none:gs=on:gsaa=full_model:gsem=on:lma=on:nm=64:nwc=1.3:sas=z3:stl=30:sac=on:tha=off:uwa=one_side_interpreted:updr=off_9 on query for (9ds/0Mi)
+% (485707)dis+1010_2:3_add=off:afr=on:afp=10000:afq=1.1:anc=none:fsr=off:gs=on:gsem=off:nwc=1:sas=z3:sos=all:sac=on:sp=reverse_arity:tha=off_5 on query for (5ds/0Mi)
+% (485714)ott+10_8_add=large:afp=100000:afq=1.4:amm=sco:cond=fast:fsr=off:fde=none:lcm=predicate:lma=on:nm=32:nwc=1:sos=on:sac=on:tha=off:updr=off_29 on query for (29ds/0Mi)
+% (485711)lrs+1011_1_add=off:afp=100000:afq=1.0:anc=none:cond=on:gs=on:gsaa=from_current:gsem=on:inw=on:lma=on:nm=64:newcnf=on:nwc=1:sas=z3:stl=30:sos=on:sp=occurrence:tha=off:uwa=ground_3 on query for (3ds/0Mi)
+% (485710)lrs+10_2_add=off:afr=on:afp=4000:afq=2.0:amm=off:anc=none:cond=fast:fsr=off:fde=unused:gs=on:gsaa=full_model:gsem=on:inw=on:nm=64:nwc=1:sas=z3:stl=30:sos=all:sp=occurrence:tha=off:thf=on:urr=on:updr=off:uhcvi=on_6 on query for (6ds/0Mi)
+% (485712)dis+1010_4_add=off:afp=100000:afq=1.0:anc=none:fsr=off:gs=on:gsem=off:inw=on:irw=on:lma=on:nm=64:nwc=1:sas=z3:sos=on:sac=on:tha=off:thf=on_179 on query for (179ds/0Mi)
+% (485713)WARNING: option uwaf not known.
+% (485715)dis-2_2:3_add=large:afp=40000:afq=1.4:amm=off:anc=none:gsp=on:gs=on:gsem=on:inw=on:lcm=reverse:lma=on:nm=2:nwc=1:nicw=on:sas=z3:sos=all:sp=reverse_arity:tha=off:urr=on_5 on query for (5ds/0Mi)
+WARNING Broken Constraint: if lrs_weight_limit_only(on) has been set then saturation_algorithm(discount) is equal to lrs
+% (485717)dis+1011_2:3_add=off:afr=on:afp=4000:afq=1.4:anc=none:bs=unit_only:fsr=off:gs=on:gsem=on:lwlo=on:nm=16:nwc=1.3:nicw=on:sas=z3:sac=on:tha=off_260 on query for (260ds/0Mi)
+% (485718)dis+1010_24_aac=none:afr=on:anc=none:cond=on:fsr=off:gs=on:gsem=on:nm=6:nwc=1:sas=z3:sos=on:sp=reverse_arity:tha=off_9 on query for (9ds/0Mi)
+% (485716)dis+1_3:1_acc=on:afp=100000:afq=1.1:amm=off:anc=none:bd=off:cond=on:fsr=off:gs=on:inw=on:lma=on:nm=32:nwc=1:urr=on_2 on query for (2ds/0Mi)
+WARNING Broken Constraint: if lrs_weight_limit_only(on) has been set then saturation_algorithm(discount) is equal to lrs
+% (485719)dis+11_3_add=large:afr=on:afp=4000:afq=1.2:amm=off:anc=none:gs=on:gsem=on:lwlo=on:nm=64:nwc=1:sas=z3:sac=on:sp=reverse_arity:tha=off:thf=on:updr=off_92 on query for (92ds/0Mi)
+% (485713)lrs-2_24_awrs=converge:awrsf=64:av=off:bd=off:bs=on:bsr=on:br=off:cond=on:fde=none:gsp=on:inw=on:lwlo=on:nm=6:nwc=4:stl=30:s2a=on:sos=all:sp=weighted_frequency:thf=on:uwa=one_side_interpreted:urr=on:updr=off:uhcvi=on:uwaf=on_21 on query for (21ds/0Mi)
+% (485723)lrs+10_8:1_aac=none:add=off:afr=on:afp=40000:afq=1.1:amm=off:anc=none:bd=off:cond=on:fsr=off:fde=none:gs=on:gsem=off:nm=0:nwc=1.2:sas=z3:stl=30:sos=all:sp=reverse_arity:tha=off:updr=off_68 on query for (68ds/0Mi)
+% (485721)ott+10_4_awrs=converge:awrsf=128:afp=100000:afq=1.4:amm=sco:anc=none:fsr=off:fde=unused:gs=on:gsaa=from_current:gsem=on:irw=on:nm=64:nwc=1:s2a=on:sac=on:sp=frequency:tha=off_3 on query for (3ds/0Mi)
+% (485720)lrs+1003_2_awrs=converge:awrsf=512:add=large:afp=10000:afq=1.1:amm=sco:anc=none:cond=fast:fde=unused:lma=on:nm=64:nwc=1.2:stl=30:s2a=on:sac=on:sp=reverse_arity:tha=some:thi=new:urr=on:updr=off_80 on query for (80ds/0Mi)
+WARNING Broken Constraint: if lrs_weight_limit_only(on) has been set then saturation_algorithm(discount) is equal to lrs
+% (485724)dis+1002_4_add=off:afp=10000:afq=2.0:amm=off:anc=none:fsr=off:gsp=on:gs=on:gsem=on:irw=on:lwlo=on:nm=2:newcnf=on:nwc=1:sos=on:sac=on:sp=occurrence:tha=off:updr=off_2 on query for (2ds/0Mi)
+% (485722)dis+10_6_afr=on:afp=1000:afq=1.2:anc=none:bsr=on:fsr=off:gs=on:lcm=reverse:nm=64:newcnf=on:nwc=1.7:sas=z3:tha=off_4 on query for (4ds/0Mi)
+% (485727)WARNING: option uwaf not known.
+% (485728)dis+11_3_afp=100000:afq=2.0:amm=sco:anc=none:gs=on:gsem=off:inw=on:lma=on:nm=64:nwc=1:sas=z3:sd=10:ss=axioms:st=5.0:sp=occurrence:tha=off:updr=off_202 on query for (202ds/0Mi)
+% (485725)lrs-11_3:1_awrs=converge:awrsf=1:av=off:bce=on:cond=fast:fde=none:gs=on:gsem=off:lwlo=on:nm=16:newcnf=on:nwc=2:stl=90:s2a=on:sos=theory:sp=weighted_frequency:tha=some:uwa=one_side_constant:urr=on:updr=off:uhcvi=on_234 on query for (234ds/0Mi)
+% (485729)lrs-11_4_awrs=decay:awrsf=64:afp=1000:afq=2.0:amm=off:anc=none:br=off:cond=on:fsr=off:fde=unused:gs=on:gsaa=from_current:gsem=off:irw=on:lma=on:nm=32:nwc=1.1:stl=30:s2a=on:sos=theory:sac=on:sp=frequency:tha=some:thi=new:urr=on:uhcvi=on_6 on query for (6ds/0Mi)
+% (485726)dis-1_2:1_afr=on:afp=10000:afq=2.0:anc=none:cond=on:fsr=off:fde=unused:gs=on:gsaa=full_model:gsem=on:inw=on:irw=on:lcm=predicate:lma=on:nm=32:nwc=1:sas=z3:sos=all:sp=reverse_arity:tha=off:uwa=ground_4 on query for (4ds/0Mi)
+% (485730)ott+1004_5_av=off:bd=off:bs=on:cond=on:fde=none:lma=on:nm=64:nwc=1:sos=on:sp=reverse_arity:tha=off:thi=strong:uwa=one_side_constant_143 on query for (143ds/0Mi)
+% (485727)lrs+10_4:1_av=off:bd=off:bsr=on:cond=on:fde=unused:inw=on:lcm=reverse:lma=on:lwlo=on:nm=64:nwc=5:stl=90:sp=reverse_arity:thi=strong:uwa=ground:updr=off:uwaf=on_359 on query for (359ds/0Mi)
+% (485731)lrs+1011_7_aac=none:add=large:afr=on:afp=40000:afq=1.4:bd=off:bs=on:bsr=on:fsr=off:inw=on:lma=on:nm=64:nwc=2:nicw=on:sas=z3:stl=60:sos=all:sp=reverse_arity:tha=off:updr=off:uhcvi=on_541 on query for (541ds/0Mi)
+% (485732)lrs+1011_2:1_afr=on:afp=10000:afq=2.0:amm=off:gsp=on:gs=on:inw=on:ile=on:nm=2:nwc=1:sas=z3:tha=off_300 on query for (300ds/0Mi)
+% (485733)ott+1010_2:1_acc=on:add=large:afr=on:afp=40000:afq=1.1:anc=none:gs=on:inw=on:ile=on:nm=64:newcnf=on:nwc=1:sos=on:sac=on:sp=reverse_arity:urr=on_300 on query for (300ds/0Mi)
+% (485734)dis+2_1_add=large:afr=on:afp=1000:afq=1.2:anc=none:cond=on:nm=64:newcnf=on:nwc=1:tha=off:updr=off_300 on query for (300ds/0Mi)
+% (485735)ott+10_4:1_aac=none:add=off:afp=40000:afq=1.1:amm=sco:anc=none:bd=off:gs=on:gsem=off:ile=on:nm=64:newcnf=on:nwc=1:nicw=on:sas=z3:sp=reverse_arity:tha=off:updr=off_300 on query for (300ds/0Mi)
+% (485736)dis+1011_2_acc=on:afp=10000:afq=1.1:amm=sco:anc=none:ccuc=small_ones:cond=fast:fde=unused:lma=on:nm=64:newcnf=on:nwc=1:sac=on:sp=reverse_arity:tha=off:updr=off:uhcvi=on_300 on query for (300ds/0Mi)
+% (485739)dis+1002_5:4_add=off:afr=on:afp=100000:afq=2.0:amm=off:anc=none:bd=off:fsr=off:inw=on:ile=on:nm=64:newcnf=on:nwc=1:sas=z3:tha=off:updr=off_300 on query for (300ds/0Mi)
+% (485740)lrs+11_5:1_add=off:afp=100000:afq=1.1:amm=off:anc=none:bd=off:cond=on:er=known:gs=on:gsem=off:inw=on:ile=on:irw=on:lcm=predicate:lwlo=on:nm=64:newcnf=on:nwc=1.1:sac=on:sp=reverse_arity:tha=off:thf=on_300 on query for (300ds/0Mi)
+% (485741)dis+1011_5:1_afp=4000:afq=1.4:amm=off:anc=none:cond=on:fde=unused:gsp=on:ile=on:lma=on:nm=16:nwc=1:sos=on:sac=on:tha=off:urr=ec_only:uhcvi=on_300 on query for (300ds/0Mi)
+% (485742)dis+1010_1_add=off:afp=10000:afq=1.1:amm=sco:anc=none:bd=off:gs=on:gsem=off:inw=on:ile=on:irw=on:nm=6:nwc=1.3:nicw=on:sas=z3:tha=off:urr=ec_only_300 on query for (300ds/0Mi)
+% (485744)lrs+1011_8:1_add=off:afp=10000:afq=1.0:amm=sco:anc=none:cond=on:fsr=off:gs=on:gsem=off:ile=on:irw=on:nm=2:nwc=1:sas=z3:sp=reverse_arity:tha=off:urr=on:updr=off_300 on query for (300ds/0Mi)
+% (485738)dis+10_14_add=large:afp=4000:afq=1.1:amm=sco:bs=unit_only:bsr=on:cond=fast:fde=none:inw=on:irw=on:lcm=predicate:nm=4:nwc=1.1:sos=on:sac=on:updr=off:uhcvi=on_300 on query for (300ds/0Mi)
+% (485743)dis+1002_2_aac=none:add=off:afr=on:afp=100000:afq=1.2:amm=sco:anc=all:bsr=on:fde=unused:inw=on:ile=on:lcm=reverse:nm=4:nwc=4:nicw=on:sos=theory:sac=on:sp=reverse_arity:uhcvi=on_300 on query for (300ds/0Mi)
+% (485737)ott+11_5:4_aac=none:add=large:afp=4000:afq=1.4:amm=sco:anc=none:cond=fast:fde=none:gs=on:gsem=on:inw=on:ile=on:nm=2:newcnf=on:nwc=1:sas=z3:sos=on:sp=reverse_arity:urr=on:uhcvi=on_300 on query for (300ds/0Mi)
+% (485749)lrs-2_8:1_add=large:afp=100000:afq=1.4:amm=sco:anc=none:bs=on:bsr=on:cond=fast:fsr=off:fde=none:gs=on:gsaa=from_current:gsem=on:ile=on:irw=on:lma=on:nm=64:newcnf=on:nwc=4:nicw=on:sas=z3:sp=reverse_arity:updr=off_600 on query for (598ds/0Mi)
+% (485745)ott+1002_3:1_av=off:bsr=on:ep=RS:inw=on:ile=on:lma=on:nm=64:newcnf=on:nwc=1:sp=occurrence:tha=off:updr=off:uhcvi=on_300 on query for (300ds/0Mi)
+% (485746)lrs+1011_3_add=off:afp=1000:afq=2.0:amm=off:anc=none:bsr=on:bce=on:cond=fast:fde=unused:ile=on:lma=on:nm=6:nwc=2:nicw=on:sas=z3:sd=3:ss=axioms:st=2.0:sp=reverse_arity:tha=off_300 on query for (300ds/0Mi)
+% (485747)ott+1011_3:2_av=off:bd=off:bs=on:bce=on:cond=on:fde=unused:ile=on:lma=on:newcnf=on:nwc=1:tha=off:updr=off_300 on query for (300ds/0Mi)
+WARNING Broken Constraint: if sat_solver(z3) has been set then avatar(off) is equal to on
+% (485748)dis+11_3:1_av=off:br=off:ep=R:fsr=off:gsp=on:ile=on:lma=on:nm=2:newcnf=on:nwc=1:sas=z3:sp=reverse_arity:urr=on:uhcvi=on_300 on query for (300ds/0Mi)
+WARNING Broken Constraint: if lrs_weight_limit_only(on) has been set then saturation_algorithm(discount) is equal to lrs
+% (485754)dis+10_3_add=off:afp=100000:afq=1.4:amm=sco:anc=none:fsr=off:gs=on:gsem=on:inw=on:ile=on:lma=on:lwlo=on:nm=64:nwc=1:sas=z3:sp=reverse_arity:tha=off:thf=on:updr=off_300 on query for (300ds/0Mi)
+% (485752)lrs+1002_2_add=large:afr=on:afp=40000:afq=2.0:amm=sco:anc=none:inw=on:lwlo=on:nm=32:newcnf=on:nwc=1:sos=theory:sac=on:sp=occurrence:urr=on_300 on query for (300ds/0Mi)
+% (485750)dis+1010_2_acc=on:afr=on:afp=100000:afq=1.2:anc=none:bsr=on:fsr=off:ile=on:irw=on:nm=16:newcnf=on:nwc=4:sp=occurrence:tha=off:urr=ec_only_300 on query for (300ds/0Mi)
+WARNING Broken Constraint: if sat_solver(z3) has been set then avatar(off) is equal to on
+% (485753)lrs-10_3_av=off:bs=unit_only:bsr=on:cond=on:fsr=off:fde=unused:gs=on:inw=on:irw=on:lma=on:nm=64:newcnf=on:nwc=1.2:sas=z3:tha=off:urr=ec_only_300 on query for (300ds/0Mi)
+% (485751)ott+1010_1_add=large:afp=1000:afq=1.2:anc=none:bd=off:ile=on:nm=2:newcnf=on:nwc=1:sp=occurrence:updr=off_300 on query for (300ds/0Mi)
+% (485705)Time limit reached!
+% (485705)------------------------------
+% (485705)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485705)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485705)Termination reason: Time limit
+% (485705)Termination phase: Property scanning
+
+% (485705)Memory used [KB]: 64604
+% (485705)Time elapsed: 0.300 s
+% (485705)------------------------------
+% (485705)------------------------------
+WARNING: the modes full & new are deprecated for theory instantiation. using all instead.
+% (485716)Time limit reached!
+% (485716)------------------------------
+% (485716)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485716)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485716)Termination reason: Time limit
+% (485716)Termination phase: Property scanning
+
+% (485716)Memory used [KB]: 63197
+% (485716)Time elapsed: 0.300 s
+% (485716)------------------------------
+% (485716)------------------------------
+% (485724)Time limit reached!
+% (485724)------------------------------
+% (485724)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485724)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485724)Termination reason: Time limit
+% (485724)Termination phase: General splitting
+
+% (485724)Memory used [KB]: 58208
+% (485724)Time elapsed: 0.300 s
+% (485724)------------------------------
+% (485724)------------------------------
+% (485755)lrs+2_4_add=large:afr=on:afp=100000:afq=1.1:amm=sco:anc=none:cond=on:ep=R:gs=on:gsaa=from_current:gsem=off:ile=on:lcm=reverse:lma=on:nm=2:nwc=1.1:sos=on:sac=on:tha=off:updr=off_300 on query for (300ds/0Mi)
+% (485756)lrs+2_1024_av=off:bd=off:bsr=on:cond=fast:fsr=off:fde=none:ile=on:irw=on:lcm=reverse:nm=64:newcnf=on:nwc=1:tha=off:thi=overlap:uwa=one_side_constant:updr=off:uhcvi=on_300 on query for (300ds/0Mi)
+% (485757)ott+1011_8:1_afr=on:afp=1000:afq=1.4:amm=sco:anc=none:bd=off:fsr=off:fde=unused:inw=on:ile=on:nm=2:nwc=1:nicw=on:sas=z3:sos=theory:sp=reverse_arity:urr=ec_only:updr=off:uhcvi=on_600 on query for (594ds/0Mi)
+WARNING: the modes full & new are deprecated for theory instantiation. using all instead.
+% (485701)Time limit reached!
+% (485701)------------------------------
+% (485701)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485701)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485701)Termination reason: Time limit
+% (485701)Termination phase: Property scanning
+
+% (485701)Memory used [KB]: 83793
+% (485701)Time elapsed: 0.400 s
+% (485701)------------------------------
+% (485701)------------------------------
+% (485711)Time limit reached!
+% (485711)------------------------------
+% (485711)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485711)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485711)Termination reason: Time limit
+% (485711)Termination phase: Property scanning
+
+% (485711)Memory used [KB]: 83793
+% (485711)Time elapsed: 0.400 s
+% (485711)------------------------------
+% (485711)------------------------------
+% (485721)Time limit reached!
+% (485721)------------------------------
+% (485721)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485721)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485721)Termination reason: Time limit
+% (485721)Termination phase: Saturation
+
+% (485721)Memory used [KB]: 74583
+% (485721)Time elapsed: 0.400 s
+% (485721)------------------------------
+% (485721)------------------------------
+% (485758)lrs+10_2:3_afr=on:afp=1000:afq=1.1:bd=off:bce=on:cond=on:gsp=on:gs=on:gsaa=from_current:inw=on:lcm=reverse:nm=64:newcnf=on:nwc=1:sas=z3:sp=reverse_arity:tha=off:uwa=interpreted_only:updr=off:uhcvi=on_300 on query for (300ds/0Mi)
+% (485759)dis+10_32_add=large:afp=40000:afq=1.0:anc=none:bd=off:bsr=on:fde=none:lma=on:nm=0:newcnf=on:nwc=1:nicw=on:sp=occurrence:tha=off:thi=full:uhcvi=on_300 on query for (300ds/0Mi)
+% (485760)ott+1010_2:1_add=off:afr=on:afp=1000:afq=2.0:amm=off:anc=none:bsr=on:cond=on:ile=on:nm=64:newcnf=on:nwc=1:sd=2:ss=axioms:st=1.5:sac=on:tha=off:updr=off_300 on query for (300ds/0Mi)
+% (485722)Time limit reached!
+% (485722)------------------------------
+% (485722)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485722)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485722)Termination reason: Time limit
+% (485722)Termination phase: Property scanning
+
+% (485722)Memory used [KB]: 83793
+% (485722)Time elapsed: 0.500 s
+% (485722)------------------------------
+% (485722)------------------------------
+% (485726)Time limit reached!
+% (485726)------------------------------
+% (485726)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485726)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485726)Termination reason: Time limit
+% (485726)Termination phase: Saturation
+
+% (485726)Memory used [KB]: 90702
+% (485726)Time elapsed: 0.500 s
+% (485726)------------------------------
+% (485726)------------------------------
+% (485762)dis+11_7_add=large:afr=on:afp=10000:afq=1.2:bd=off:bsr=on:cond=on:fsr=off:fde=unused:gs=on:ile=on:lcm=predicate:lma=on:nm=2:newcnf=on:nwc=3:sos=on:sp=reverse_arity:tha=off:updr=off_300 on query for (300ds/0Mi)
+% (485761)lrs-11_2:1_add=off:afr=on:afp=10000:afq=2.0:amm=sco:anc=none:inw=on:ile=on:irw=on:lcm=reverse:lma=on:nm=64:nwc=1.5:sas=z3:sp=reverse_arity:urr=on_300 on query for (300ds/0Mi)
+% (485707)Time limit reached!
+% (485707)------------------------------
+% (485707)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485707)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485707)Termination reason: Time limit
+% (485707)Termination phase: Saturation
+
+% (485707)Memory used [KB]: 102599
+% (485707)Time elapsed: 0.600 s
+% (485707)------------------------------
+% (485707)------------------------------
+% (485715)Time limit reached!
+% (485715)------------------------------
+% (485715)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485715)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485715)Termination reason: Time limit
+% (485715)Termination phase: Saturation
+
+% (485715)Memory used [KB]: 94923
+% (485715)Time elapsed: 0.600 s
+% (485715)------------------------------
+% (485715)------------------------------
+% (485763)dis+1011_1_afp=40000:afq=1.2:anc=none:cond=on:gsp=on:ile=on:irw=on:lma=on:newcnf=on:nwc=1:sac=on:sp=occurrence:tha=off:updr=off_300 on query for (300ds/0Mi)
+% (485764)lrs+10_3_av=off:fde=unused:gs=on:gsem=on:inw=on:ile=on:lma=on:lwlo=on:nm=64:nwc=1.7:sp=reverse_arity:tha=off:urr=on:updr=off:uhcvi=on_600 on query for (591ds/0Mi)
+% (485708)Time limit reached!
+% (485708)------------------------------
+% (485708)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485708)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485708)Termination reason: Time limit
+% (485708)Termination phase: Saturation
+
+% (485708)Memory used [KB]: 104390
+% (485708)Time elapsed: 0.700 s
+% (485708)------------------------------
+% (485708)------------------------------
+% (485710)Time limit reached!
+% (485710)------------------------------
+% (485710)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485710)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485710)Termination reason: Time limit
+% (485710)Termination phase: Saturation
+
+% (485710)Memory used [KB]: 90446
+% (485710)Time elapsed: 0.700 s
+% (485710)------------------------------
+% (485710)------------------------------
+% (485729)Time limit reached!
+% (485729)------------------------------
+% (485729)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485729)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485729)Termination reason: Time limit
+% (485729)Termination phase: Saturation
+
+% (485729)Memory used [KB]: 83921
+% (485729)Time elapsed: 0.700 s
+% (485729)------------------------------
+% (485729)------------------------------
+% (485765)lrs+11_2:1_add=off:anc=none:bsr=on:br=off:cond=on:er=filter:fsr=off:gs=on:gsem=on:inw=on:ile=on:lma=on:nm=2:nwc=1:sas=z3:sos=all:sac=on:uwa=ground:urr=on_300 on query for (300ds/0Mi)
+% (485766)lrs+1003_3:2_afp=1000:afq=2.0:amm=off:anc=none:cond=on:gs=on:ile=on:lma=on:nm=6:newcnf=on:nwc=1:sas=z3:sp=occurrence:tha=off:thi=all:updr=off_300 on query for (300ds/0Mi)
+% (485767)lrs+4_8:1_av=off:cond=on:gs=on:gsem=on:irw=on:nm=64:newcnf=on:nwc=1.1:sp=occurrence:tha=off:urr=on:updr=off_300 on query for (300ds/0Mi)
+% (485702)Time limit reached!
+% (485702)------------------------------
+% (485702)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485702)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485702)Termination reason: Time limit
+% (485702)Termination phase: Saturation
+
+% (485702)Memory used [KB]: 79444
+% (485702)Time elapsed: 0.800 s
+% (485702)------------------------------
+% (485702)------------------------------
+% (485768)ott-4_5:4_aac=none:afr=on:afp=100000:afq=1.2:amm=sco:anc=none:bd=off:bsr=on:br=off:cond=fast:ile=on:irw=on:lcm=reverse:lma=on:nm=64:newcnf=on:nwc=3:thf=on:urr=on:updr=off:uhcvi=on_300 on query for (300ds/0Mi)
+% (485718)Time limit reached!
+% (485718)------------------------------
+% (485718)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485718)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485718)Termination reason: Time limit
+% (485718)Termination phase: Saturation
+
+% (485718)Memory used [KB]: 108100
+% (485718)Time elapsed: 1.0000 s
+% (485718)------------------------------
+% (485718)------------------------------
+WARNING Broken Constraint: if lrs_weight_limit_only(on) has been set then saturation_algorithm(discount) is equal to lrs
+% (485770)dis+1011_3_afr=on:afp=4000:afq=2.0:amm=sco:anc=none:cond=fast:fde=none:gs=on:gsem=off:ile=on:lma=on:lwlo=on:nm=4:nwc=1:sac=on:tha=off:updr=off:uhcvi=on_300 on query for (300ds/0Mi)
+% (485709)Time limit reached!
+% (485709)------------------------------
+% (485709)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485709)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485709)Termination reason: Time limit
+% (485709)Termination phase: Saturation
+
+% (485709)Memory used [KB]: 82002
+% (485709)Time elapsed: 1.0000 s
+% (485709)------------------------------
+% (485709)------------------------------
+% (485771)lrs+1011_2:1_av=off:fsr=off:gs=on:gsem=off:inw=on:ile=on:lma=on:lwlo=on:nm=64:nwc=1:sp=occurrence:tha=off:urr=ec_only:uhcvi=on_300 on query for (300ds/0Mi)
+% (485706)Time limit reached!
+% (485706)------------------------------
+% (485706)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485706)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485706)Termination reason: Time limit
+% (485706)Termination phase: NewCNF
+
+% (485706)Memory used [KB]: 299739
+% (485706)Time elapsed: 1.200 s
+% (485706)------------------------------
+% (485706)------------------------------
+% (485772)dis+1011_4_afr=on:afp=10000:afq=1.1:amm=off:anc=none:ep=RS:fsr=off:ile=on:nm=64:newcnf=on:nwc=1:sos=all:sac=on:updr=off:uhcvi=on_300 on query for (300ds/0Mi)
+% (485703)Time limit reached!
+% (485703)------------------------------
+% (485703)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485703)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485703)Termination reason: Time limit
+% (485703)Termination phase: Saturation
+
+% (485703)Memory used [KB]: 167459
+% (485703)Time elapsed: 1.300 s
+% (485703)------------------------------
+% (485703)------------------------------
+% (485773)lrs+1010_1_afp=1000:afq=1.4:amm=off:anc=none:bd=off:bsr=on:br=off:cond=on:ile=on:irw=on:nm=2:nwc=1:nicw=on:sas=z3:sos=all:sp=reverse_arity:tha=off:urr=on:updr=off_300 on query for (300ds/0Mi)
+% (485700)Time limit reached!
+% (485700)------------------------------
+% (485700)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485700)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485700)Termination reason: Time limit
+% (485700)Termination phase: Saturation
+
+% (485700)Memory used [KB]: 95947
+% (485700)Time elapsed: 1.400 s
+% (485700)------------------------------
+% (485700)------------------------------
+% (485774)lrs+10_24_afp=4000:afq=2.0:bd=off:bsr=on:bce=on:cond=fast:fsr=off:gsp=on:gs=on:gsem=on:inw=on:ile=on:nwc=1.3:sp=occurrence:tha=off:uwa=one_side_constant:urr=ec_only_300 on query for (300ds/0Mi)
+% (485713)Time limit reached!
+% (485713)------------------------------
+% (485713)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485713)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485713)Termination reason: Time limit
+% (485713)Termination phase: Saturation
+
+% (485713)Memory used [KB]: 174879
+% (485713)Time elapsed: 2.200 s
+% (485775)lrs-2_5:1_acc=on:add=off:afr=on:afp=40000:afq=1.1:amm=off:anc=none:bd=off:cond=fast:gs=on:ile=on:nm=0:newcnf=on:nwc=3:sac=on:thf=on:urr=ec_only_300 on query for (300ds/0Mi)
+% (485695)Time limit reached!
+% (485695)------------------------------
+% (485695)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485695)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485695)Termination reason: Time limit
+% (485695)Termination phase: Clausification
+
+% (485695)Memory used [KB]: 4444916
+% (485695)Time elapsed: 2.300 s
+% (485695)------------------------------
+% (485695)------------------------------
+% (485696)Time limit reached!
+% (485696)------------------------------
+% (485696)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485696)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485696)Termination reason: Time limit
+% (485696)Termination phase: Saturation
+
+% (485696)Memory used [KB]: 156330
+% (485696)Time elapsed: 2.300 s
+% (485696)------------------------------
+% (485696)------------------------------
+% (485779)lrs+1_5:1_add=off:afr=on:afp=40000:afq=2.0:amm=off:anc=none:cond=on:gs=on:gsem=off:ile=on:lma=on:nm=64:nwc=1.2:sp=reverse_arity_300 on query for (300ds/0Mi)
+% (485780)lrs+1010_1_add=large:afr=on:afp=40000:afq=2.0:anc=none:br=off:fsr=off:inw=on:irw=on:lma=on:lwlo=on:nm=64:newcnf=on:nwc=1:sos=all:urr=on_300 on query for (300ds/0Mi)
+% (485697)Time limit reached!
+% (485697)------------------------------
+% (485697)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485697)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485697)Termination reason: Time limit
+% (485697)Termination phase: Saturation
+
+% (485697)Memory used [KB]: 71128
+% (485697)Time elapsed: 2.700 s
+% (485697)------------------------------
+% (485697)------------------------------
+% (485781)lrs+1011_2:1_aac=none:add=off:afp=1000:afq=1.0:amm=off:bs=on:gs=on:gsaa=from_current:gsem=on:ile=on:lcm=reverse:lma=on:nm=2:newcnf=on:nwc=1:nicw=on:sas=z3:sp=reverse_arity:tha=off_300 on query for (300ds/0Mi)
+% (485698)Time limit reached!
+% (485698)------------------------------
+% (485698)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485698)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485698)Termination reason: Time limit
+% (485698)Termination phase: Saturation
+
+% (485698)Memory used [KB]: 87248
+% (485698)Time elapsed: 3.0000 s
+% (485698)------------------------------
+% (485698)------------------------------
+% (485714)Time limit reached!
+% (485714)------------------------------
+% (485714)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485714)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485714)Termination reason: Time limit
+% (485714)Termination phase: Saturation
+
+% (485714)Memory used [KB]: 97866
+% (485714)Time elapsed: 3.0000 s
+% (485714)------------------------------
+% (485714)------------------------------
+% (485782)dis+1010_2_add=off:afr=on:afp=40000:afq=2.0:amm=sco:anc=none:bd=off:fsr=off:fde=none:ile=on:lcm=reverse:lma=on:nm=64:nwc=1:nicw=on:sas=z3:sp=reverse_arity_300 on query for (300ds/0Mi)
+% (485783)ott+1011_3:1_add=off:afp=100000:afq=2.0:amm=off:anc=none:bs=unit_only:gs=on:gsem=on:irw=on:newcnf=on:nwc=1:sas=z3:tha=off_300 on query for (300ds/0Mi)
+% (485736)First to succeed.
+% (485736)Refutation found. Thanks to Tanya!
+% SZS status Unsatisfiable for query
+% SZS output start Proof for query
+2. ('HasType'(X0,X1) = 'HasTypeFuel'('MaxIFuel',X0,X1)) [input]
+67. 'HasType'('Prims.empty','Tm_type') [input]
+69. ! [X0 : 'Fuel()',X1 : 'Term()'] : ('HasTypeFuel'(X0,X1,'Prims.empty') => $false) [input]
+93. 'HasType'('Tm_unit','Prims.unit') [input]
+647. ! [X0 : 'Term()',X1 : 'Term()'] : (('HasType'(X0,'Tm_type') & 'HasType'(X1,'Prims.unit')) => 'HasType'('Prims.magic'(X0,X1),X0)) [input]
+5117. ! [X1 : 'Term()',X0 : 'Term()'] : ('HasType'(X0,X1) = 'HasTypeFuel'('MaxIFuel',X0,X1)) [closure 2]
+5118. ! [X1 : 'Term()',X0 : 'Term()'] : ('HasType'(X0,X1) <=> 'HasTypeFuel'('MaxIFuel',X0,X1)) [flattening 5117]
+6537. ! [X0 : 'Term()',X1 : 'Term()'] : ('HasType'('Prims.magic'(X0,X1),X0) | (~'HasType'(X0,'Tm_type') | ~'HasType'(X1,'Prims.unit'))) [ennf transformation 647]
+6538. ! [X0 : 'Term()',X1 : 'Term()'] : ('HasType'('Prims.magic'(X0,X1),X0) | ~'HasType'(X0,'Tm_type') | ~'HasType'(X1,'Prims.unit')) [flattening 6537]
+6804. ! [X0 : 'Fuel()',X1 : 'Term()'] : ($false | ~'HasTypeFuel'(X0,X1,'Prims.empty')) [ennf transformation 69]
+49801. ~'HasType'(X1,'Prims.unit') | ~'HasType'(X0,'Tm_type') | 'HasType'('Prims.magic'(X0,X1),X0) [cnf transformation 6538]
+51747. 'HasType'('Tm_unit','Prims.unit') [cnf transformation 93]
+51779. ~'HasTypeFuel'(X0,X1,'Prims.empty') [cnf transformation 6804]
+51781. 'HasType'('Prims.empty','Tm_type') [cnf transformation 67]
+51881. 'HasTypeFuel'('MaxIFuel',X0,X1) | ~'HasType'(X0,X1) [cnf transformation 5118]
+53880. 386 <=> 'HasType'('Tm_unit','Prims.unit') [avatar definition]
+53882. 'HasType'('Tm_unit','Prims.unit') <- (386) [avatar component clause 53880,51747]
+53883. 386 [avatar split clause 51747,53880]
+53911. 392 <=> 'HasType'('Prims.empty','Tm_type') [avatar definition]
+53913. 'HasType'('Prims.empty','Tm_type') <- (392) [avatar component clause 53911,51781]
+53914. 392 [avatar split clause 51781,53911]
+57015. ~'HasType'(X3,'Prims.empty') [resolution 51881,51779]
+80598. 'HasType'('Prims.magic'(X3,'Tm_unit'),X3) | ~'HasType'(X3,'Tm_type') <- (386) [resolution 49801,53882]
+80955. ~'HasType'('Prims.empty','Tm_type') <- (386) [resolution 80598,57015]
+81350. $false <- (386, 392) [subsumption resolution 80955,53913]
+81351. ~386 | ~392 [avatar contradiction clause 81350]
+81723. $false [avatar sat refutation 53883,53914,81351]
+% SZS output end Proof for query
+% (485736)------------------------------
+% (485736)Version: Vampire 4.7 (commit 522223da0 on 2022-12-17 10:56:52 +0100)
+% (485736)Linked with Z3 4.9.1.0 6ed071b44407cf6623b8d3c0dceb2a8fb7040cee z3-4.8.4-6427-g6ed071b44
+% (485736)Termination reason: Refutation
+
+% (485736)Memory used [KB]: 114241
+% (485736)Time elapsed: 4.862 s
+% (485736)------------------------------
+% (485736)------------------------------
+% (485693)Success in time 5.064 s
