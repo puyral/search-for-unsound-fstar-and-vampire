@@ -8,7 +8,7 @@ file=$1
 cat "$file" | \
     sed 's/(declare-sort \(.*\))/(declare-sort \1 0)/g' | \
 # fix declare datatypes
-   sed "s/^(declare-datatypes () ((Fuel /(declare-datatypes ((Fuel 0)) ((/g" | \
+    sed "s/^(declare-datatypes () ((Fuel /(declare-datatypes ((Fuel 0)) ((/g" | \
 # removes echo
     sed "s/^.*echo.*//g" | \
 #
