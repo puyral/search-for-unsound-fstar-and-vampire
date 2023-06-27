@@ -1,6 +1,3 @@
-[submodule "tools/FStar"]
-	path = tools/FStar
-	url = git@github.com:FStarLang/FStar.git
 [submodule "tools/vampire"]
 	path = tools/vampire
 	url = git@github.com:vprover/vampire.git
